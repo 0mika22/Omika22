@@ -23,9 +23,6 @@
 <a href="https://www.leetcode.com/omika_dhinde22" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
-<a href="https://www.topcoder.com/members/415013" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="30" width="40" />
-</a>
 </p>
 
 ---
